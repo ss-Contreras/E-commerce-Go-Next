@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ss-Contreras/E-commerce-Go-Next/teclado"
+	"github.com/ss-Contreras/E-commerce-Go-Next/ejercicios"
 )
 
 func main() {
@@ -33,6 +33,15 @@ func main() {
 	// fmt.Println(numero)
 	// fmt.Println(texto)
 
-	teclado.IngresoNumero()
+	// teclado.IngresoNumero()
+
+	// for {
+	// 	fmt.Println("Hola")
+	// 	break
+	// }
+
+	// iteraciones.Iterar()
+
+	ejercicios.TablasNumeros()
 
 }
